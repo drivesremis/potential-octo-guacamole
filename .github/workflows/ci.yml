@@ -3,11 +3,11 @@ name: Select Template
 on: push
 
 env:
-  API: 4132518281698582694897
+  API: 6482647691698583066821
   USER_ID: 64115bafee1430e6dcd91cd7
-  PROJECT_ID: 653e508279c0322a68090fd7
-  REPO_TEMPLATE: devmasyadi/Frank-Khey-Coloring-Horizontal
-  NEW_REPO_NAME: 1rBdxNoYAE1698582694878
+  PROJECT_ID: 64f3cb20b6ca600e9120fd5b
+  REPO_TEMPLATE: devmasyadi/TrainSurfer-Unity
+  NEW_REPO_NAME: lW2MirG2Pr1698583066311
 
 
 jobs:
