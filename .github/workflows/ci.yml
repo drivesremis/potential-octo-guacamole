@@ -3,11 +3,11 @@ name: Select Template
 on: push
 
 env:
-  API: 6959893721698581980346
+  API: 5686109801698582121365
   USER_ID: 64115bafee1430e6dcd91cd7
-  PROJECT_ID: 653e4dd379c0322a6806713c
-  REPO_TEMPLATE: devmasyadi/Frank-Khey-Coloring-Vertical
-  NEW_REPO_NAME: 4apoN7VcSd1698581979893
+  PROJECT_ID: 653e4e6279c0322a6806fc20
+  REPO_TEMPLATE: devmasyadi/Frank-Khey-Coloring-Horizontal
+  NEW_REPO_NAME: cqF4ZLXE3r1698582121116
 
 
 jobs:
