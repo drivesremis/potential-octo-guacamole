@@ -3,11 +3,11 @@ name: Select Template
 on: push
 
 env:
-  API: 5600997251698582229464
+  API: 8153193241698582671349
   USER_ID: 64115bafee1430e6dcd91cd7
-  PROJECT_ID: 653e4ed079c0322a68073975
-  REPO_TEMPLATE: devmasyadi/Frank-Khey-Coloring-Vertical
-  NEW_REPO_NAME: JGjaEJfbmF1698582228488
+  PROJECT_ID: 653e508279c0322a68090fd7
+  REPO_TEMPLATE: devmasyadi/Kids-Coloring-Book-Unity
+  NEW_REPO_NAME: Oiwmtdxojk1698582670512
 
 
 jobs:
