@@ -3,11 +3,11 @@ name: Select Template
 on: push
 
 env:
-  API: 7981979651699344139893
+  API: 7178883361699344463187
   USER_ID: 63da7db6c2b671ace38e06b9
   PROJECT_ID: 648d16df33ca477727a362b5
-  REPO_TEMPLATE: devmasyadi/Kids-Coloring-Book-Unity
-  NEW_REPO_NAME: myAM56krJk1699344139884
+  REPO_TEMPLATE: devmasyadi/SlotMachineUnity
+  NEW_REPO_NAME: SDwkrHETKf1699344463176
 
 
 jobs:
